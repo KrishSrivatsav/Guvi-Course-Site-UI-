@@ -1,0 +1,110 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.cont{
+    height: auto;
+    width: auto;
+    background-color:whitesmoke
+}
+.z{
+    margin-top: 5px;
+    margin-left: -10px;
+    font-size: 15px;
+}
+
+.a{
+     background-color:black; 
+    height: 1100px;
+}
+.b{
+    /* background-color: lightgray; */
+    height: 500px;
+}
+.c{
+    background-color:black;
+    height:50px;
+}
+.d{
+    /* background-color: white; */
+    height:50px;
+}
+
+.e{
+    /* background-color: ghostwhite; */
+    height:50px;
+}
+ .e>button{ 
+    /*margin-top: 20px;
+    margin-left: 300px;
+    width: 20%;
+    padding: 5px;
+    color: white;
+    font-size: 5px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+  
+
+.f{
+    /* background-color: red; */
+    height:50px;
+}
+
+.g{
+    /* background-color: blue; */
+    height:50px;
+}
+
+.h{
+    /* background-color: yellow; */
+    height:50px;
+}
+
+.i{
+    /* background-color: orange; */
+    height: auto;
+}
+
+.j{
+    /* background-color: blueviolet; */
+    height:auto;
+}
+
+.k{
+    /* background-color: darkred; */
+    height:auto;
+}
+
+.l{
+    /* background-color: chartreuse; */
+    height:auto;
+}
+
+.m{
+    /* background-color: darkturquoise; */
+    height:auto;
+
+}
+
+.n{
+    /* background-color: fuchsia; */
+    height:auto;
+}
+.o{
+    height: auto;
+}
+.p{
+    height: auto;
+}
+.q{
+    height: auto;
+}
+.btn-primary{
+    color: black;
+    background-color: green;
+    float: right;
+}
+
+
